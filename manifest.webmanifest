@@ -1,0 +1,15 @@
+{
+  "name": "Our Kitchen",
+  "short_name": "Our Kitchen",
+  "description": "Our family's weekly meal planner",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F4F1",
+  "theme_color": "#E09B1F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
