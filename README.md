@@ -1,2 +1,4 @@
-# Family-Meal-Planner
-An app for a busy family to plan meals
+Family meal planner
+Code lives here
+App runs on Netlify
+Data lives in Firebase
